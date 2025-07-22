@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+:root {
+  font-family: 'Inter', sans-serif;
+  
+}
+
+body {
+  overflow-x: hidden;
+}
