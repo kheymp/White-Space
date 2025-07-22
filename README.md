@@ -20,6 +20,6 @@ git clone https://github.com/kheymp/White-Space.git
 cd White-Space
 npm install
 npm run dev
-
+```
 ## 🌐 Live Demo
 👉 [View on GitHub Pages](https://kheymp.github.io/White-Space/)
