@@ -1,12 +1,25 @@
-# React + Vite
+# White Space
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A minimal demonstration of **React**, **Vite**, and **Tailwind CSS** working together.  
+This project is a lightweight template to quickly experiment with modern frontend development.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
+- **React 18** – UI library
+- **Vite** – Fast dev server & build tool
+- **Tailwind CSS** – Utility-first styling
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Purpose
+This is not a full production app. It’s a simple **proof of concept** to:
+- Test React + Tailwind integration
+- Explore Vite’s fast build setup
+- Serve as a quick starter template for future projects
 
-## Expanding the ESLint configuration
+## 📦 Installation
+```bash
+git clone https://github.com/kheymp/White-Space.git
+cd White-Space
+npm install
+npm run dev
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+👉 [View on GitHub Pages](https://kheymp.github.io/White-Space/)
